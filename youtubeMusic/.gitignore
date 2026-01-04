@@ -1,0 +1,36 @@
+# --- Python & Virtual Environment ---
+__pycache__/
+*.pyc
+venv/
+env/
+.env
+
+# --- IDEs & Editores ---
+.vscode/
+.idea/
+*.swp
+
+# --- ⚠️ SEGURIDAD (CRÍTICO) ---
+# Jamás subas estos archivos a GitHub
+oauth.json
+browser.json
+client_secret*.json
+secrets_config.py
+
+# --- Datos Locales y Logs ---
+# Archivos generados por exiftool o el script
+logs/
+research/
+
+# Music library
+biblioteca_musical.json
+
+# Excepciones: Si quieres subir un json de ejemplo (como un template), 
+# puedes usar !ejemplo.json, pero por defecto ignoramos todos para evitar subir tu música.
+
+# Reportes generados
+migration_report_*.md
+
+# --- Sistema Operativo ---
+.DS_Store
+Thumbs.db

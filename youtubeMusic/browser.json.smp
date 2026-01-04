@@ -1,0 +1,17 @@
+{
+    "accept": "*/*",
+    "accept-encoding": "gzip, deflate",
+    "authority": "music.youtube.com",
+    "content-encoding": "gzip",
+    "content-type": "application/json",
+    "origin": "https://music.youtube.com",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0",
+    "x-origin": "https://music.youtube.com",
+    "x-youtube-bootstrap-logged-in": "true",
+    "x-youtube-client-name": "67",
+    "x-youtube-client-version": "1.20251229.03.00",
+    "x-goog-authuser": "0",
+    "authorization": "[PASTE_THE_VALUE_FROM_DEVTOOLS]",
+    "cookie": "[PASTE_THE_VALUE_FROM_DEVTOOLS]",
+    "x-goog-visitor-id": "[PASTE_THE_VALUE_FROM_DEVTOOLS]"
+}
